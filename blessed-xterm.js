@@ -25,7 +25,7 @@
 /*  external requirements  */
 const clone   = require("clone")
 const blessed = require("blessed")
-const Pty     = require("node-pty")
+const Pty     = require("node-pty-prebuilt")
 const jsdom   = require("jsdom")
 
 /*  CRUEL HACK: xterm.js accesses the global "window", so we have to emulate this environment  */
