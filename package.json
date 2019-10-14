@@ -33,7 +33,7 @@
         "blessed":                                   "0.1.81",
         "jsdom":                                     "11.10.0",
         "xterm":                                     "2.8.1",
-        "node-pty-prebuilt":                         "0.7.3"
+        "node-pty-prebuilt":                         "0.7.6"
     },
     "engines": {
         "node":                                      ">=8.0.0"
