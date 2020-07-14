@@ -1,6 +1,6 @@
 ##
 ##  blessed-xterm -- XTerm Widget for Blessed Curses Environment
-##  Copyright (c) 2017 Ralf S. Engelschall <rse@engelschall.com>
+##  Copyright (c) 2017-2019 Dr. Ralf S. Engelschall <rse@engelschall.com>
 ##
 ##  Permission is hereby granted, free of charge, to any person obtaining
 ##  a copy of this software and associated documentation files (the
@@ -63,4 +63,6 @@ rules:
     curly:                               off
     space-in-parens:                     off
     no-control-regex:                    off
+    array-bracket-spacing:               off
+    lines-between-class-members:         off
 
